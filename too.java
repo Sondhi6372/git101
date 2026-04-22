@@ -8,5 +8,9 @@ public class too {
 
         int mul = a * b;
         System.out.println("The mul of a and b is: " + mul);
+        for (int i = 0 ; i <= b ; i++ ){
+            sum += i;
+         
+        }
     }
 }
